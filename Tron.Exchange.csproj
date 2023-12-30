@@ -8,9 +8,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Grpc.Core" Version="2.46.5" />
     <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
-    <PackageReference Include="Tron.Wallet.Net" Version="1.5.3" />
+    <PackageReference Include="Tron.Wallet" Version="1.2.1" />
   </ItemGroup>
 
   <ItemGroup>
