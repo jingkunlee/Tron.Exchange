@@ -9,7 +9,7 @@
 
   <ItemGroup>
     <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
-    <PackageReference Include="Tron.Wallet" Version="1.2.1" />
+    <PackageReference Include="TronWallet" Version="1.0.1" />
   </ItemGroup>
 
   <ItemGroup>

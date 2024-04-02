@@ -4,9 +4,9 @@ using System.Text;
 namespace Tron.Exchange;
 
 using Newtonsoft.Json;
-using Tron.Wallet;
-using Tron.Wallet.Accounts;
-using Tron.Wallet.Crypto;
+using Tron;
+using Tron.Accounts;
+using Tron.Crypto;
 
 internal static class Program {
     private static async Task Main() {

@@ -3,7 +3,7 @@ using Microsoft.Extensions.Options;
 
 namespace Tron.Exchange;
 
-using Tron.Wallet;
+using Tron;
 
 public record TronRecord(IServiceProvider ServiceProvider, ITronClient? TronClient, IOptions<TronNetOptions>? Options);
 
